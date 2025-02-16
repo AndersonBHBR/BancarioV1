@@ -43,7 +43,7 @@ def extrato():
     print(f"\nSaldo: R$ {saldo:.2f}")
     print("==========================================")
 
-
+#Menu do Sistema Bancário
 menu = """
 
 [d] Depositar
